@@ -5,7 +5,7 @@ find_package(catkin REQUIRED COMPONENTS message_generation roscpp)
 
 add_message_files(
    FILES
-   WheelVelocities.msg
+   WheelCommands.msg
 )
 
 generate_messages(
