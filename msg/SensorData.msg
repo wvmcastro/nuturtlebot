@@ -1,0 +1,12 @@
+int32 left_encoders
+int32 right_encoders
+int16 accelX
+int16 accelY
+int16 accelZ
+int16 gyroX
+int16 gyroY
+int16 gyroZ
+int16 magX
+int16 magY
+int16 magZ
+float32 battery_voltage
