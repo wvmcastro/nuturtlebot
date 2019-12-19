@@ -1,4 +1,4 @@
-std_msgs/Header header
+time stamp
 int32 left_encoder
 int32 right_encoder
 int16 accelX
