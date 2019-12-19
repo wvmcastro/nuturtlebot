@@ -1,5 +1,6 @@
-int32 left_encoders
-int32 right_encoders
+std_msgs/Header header
+int32 left_encoder
+int32 right_encoder
 int16 accelX
 int16 accelY
 int16 accelZ
