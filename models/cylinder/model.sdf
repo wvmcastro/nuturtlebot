@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='unit_cylinder'>
+  <model name='cylinder'>
     <link name='link'>
       <inertial>
         <mass>1</mass>
@@ -28,7 +28,7 @@
         </geometry>
         <material>
           <script>
-            <name>Gazebo/Grey</name>
+            <name>Gazebo/Black</name>
             <uri>file://media/materials/scripts/gazebo.material</uri>
           </script>
           <shader type='vertex'>
@@ -100,7 +100,7 @@
         </surface>
       </collision>
     </link>
-    <static>0</static>
+    <static>1</static>
     <allow_auto_disable>1</allow_auto_disable>
   </model>
 </sdf>
