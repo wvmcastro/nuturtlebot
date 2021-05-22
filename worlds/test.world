@@ -209,8 +209,8 @@
         <visual name='visual'>
           <geometry>
             <cylinder>
-              <radius>0.035</radius>
-              <length>0.2</length>
+              <radius>0.05</radius>
+              <length>0.4</length>
             </cylinder>
           </geometry>
           <material>
@@ -236,8 +236,8 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <cylinder>
-              <radius>0.035</radius>
-              <length>0.2</length>
+              <radius>0.05</radius>
+              <length>0.4</length>
             </cylinder>
           </geometry>
           <surface>
